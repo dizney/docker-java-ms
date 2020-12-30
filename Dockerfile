@@ -1,2 +1,2 @@
-FROM docker pull anapsix/alpine-java:jre8
+FROM openjdk:16-slim
 
